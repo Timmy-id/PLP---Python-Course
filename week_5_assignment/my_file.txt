@@ -1,0 +1,6 @@
+Hello 
+Writing to a file 
+Adding a number, 16, to the file 
+Append line 1 
+Append line 2 
+Append line 3
